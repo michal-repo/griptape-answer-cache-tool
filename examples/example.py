@@ -49,4 +49,4 @@ agent.run("Tell me a joke")
 agent.run("Show me a joke")
 # threshold defines maximum score that cached answer can have, let's try to lower it and change prompt
 cache_tool.threshold = 0.1
-agent.run("Tell me joke about crow and fox, make it very funny")
+agent.run("Tell me a joke about crow and fox, make it very funny")
