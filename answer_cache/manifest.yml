@@ -1,0 +1,3 @@
+version: "v1"
+name: Answer Cache
+description: Tool for using vector database as answer cache
