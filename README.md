@@ -62,6 +62,7 @@ agent.run("Show me a joke")
 cache_tool.threshold = 0.1
 agent.run("Tell me a joke about crow and fox, make it very funny")
 ```
+
 ```
 [04/18/24 23:03:26] INFO     ToolkitTask e9f3c1d629bb45c2ac99905472f12f3a
                              Input: Tell me a joke
